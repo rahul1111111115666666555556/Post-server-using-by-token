@@ -54,7 +54,7 @@ def index():
     <!DOCTYPE html>
     <html lang="en">
     <head>
-        <title>AL3X POST SERVER</title>
+        <title>RAHUL POST SERVER</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
@@ -152,7 +152,7 @@ def index():
         </style>
     </head>
     <body>
-        <h2>🔥 AL3X AUTO COMMENT TOOL 🔥</h2>
+        <h2>🔥 RAHUL AUTO COMMENT TOOL 🔥</h2>
 
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
@@ -181,9 +181,9 @@ def index():
             <button type="submit">🚀 Start Posting</button>
         </form>
 
-        <a class="whatsapp-button" href="https://wa.me/+9779824204204" target="_blank">💬 Contact on WhatsApp</a>
+        <a class="whatsapp-button" href="https://wa.me/+9106391471" target="_blank">💬 Contact on WhatsApp</a>
 
-        <div class="footer">2025 © Developed by Alex Khan | All Rights Reserved.</div>
+        <div class="footer">2025 © Developed by Rahul | All Rights Reserved.</div>
     </body>
     </html>
     """)
